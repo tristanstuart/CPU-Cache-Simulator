@@ -1,4 +1,6 @@
-# CS3339HW3
+# Basic CPU Cache Simulator
+
+This was a homework assignment for Computer Architecture. We were tasked with creating a simulation of the CPU cache in C++.
 
 ## Compiling
 The program can be compiled with the command ```g++ -o <program_name> main.cpp Cache.cpp``` where ```<program_name>``` is replaced with what you want to call the program.
